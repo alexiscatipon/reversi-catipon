@@ -1,0 +1,15 @@
+{
+  "name": "285-reversi",
+  "version": "0.0.1",
+  "description": "This is a web version of the game reversi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-static": "^0.7.11",
+    "socket.io": "^4.6.1"
+  }
+}
